@@ -1,0 +1,6 @@
+[submodule "labrack-go"]
+	path = labrack-go
+	url = git@github.com:dretay/labrack-go.git
+[submodule "labrack-arduino"]
+	path = labrack-arduino
+	url = git@github.com:dretay/labrack-arduino.git
